@@ -5,10 +5,7 @@ in the spirit of [2048.c](https://github.com/mevdschee/2048.c) and
 [bastet](https://github.com/fph/bastet), with graphics inspired by
 [btop](https://github.com/aristocratos/btop).
 
-    ╭─┐bob┌────────╮ ╭─┐hold┌───────╮ ╭─┐alice┌────┐lvl 1┌─╮ ╭─┐next┌───────╮ ╭─┐carol┌──────╮
-    │      ▄       │ │              │ │ · · · · · · · · · ·│ │    ▔▔▔▔      │ │     ▄▄▀      │
-    │     ▀▀▀      │ │              │ │ · · ·▔▔ · · · · · ·│ │      ▔▔▔▔    │ │              │
-    ...
+![screenshot](screenshot.png)
 
 The large board in the middle is yours, the two small boards are your neighbours
 in the ring: the left one sends you garbage, the right one receives yours. With two
